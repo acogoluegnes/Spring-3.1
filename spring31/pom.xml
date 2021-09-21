@@ -16,7 +16,7 @@
 		<logback.version>0.9.29</logback.version>
 		<hibernate.version>3.6.6.Final</hibernate.version>
 		<junit.version>4.8.2</junit.version>
-		<tomcat.version>7.0.14</tomcat.version>
+		<tomcat.version>7.0.107</tomcat.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
